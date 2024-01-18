@@ -57,7 +57,7 @@ const Reviues = ({id, prevReating, userRated}) => {
         }
         setLoading(false)
     }
-
+//Way
     useEffect(() => {
         async function getData() {
             setReviewsLoading(true);
