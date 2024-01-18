@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: black;
+    color: white;
+    scroll-behavior: smooth;
+}
+.header {
+    background-color: #0e0e0f;
+}
+
+.card {
+    background-color: black;
+}
+
+.all {
+    background-color: rgb(19, 18, 18);
+}
