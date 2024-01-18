@@ -73,7 +73,7 @@ const Reviues = ({id, prevReating, userRated}) => {
         getData();
     },[newAdded])
 
-
+// Return the Items
   return (
     <div className='mt-4 border-t-2 border-pink-700 w-full'>
         <ReactStars 
